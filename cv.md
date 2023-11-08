@@ -23,4 +23,4 @@ function squareSum(numbers){
 #### [Francisk Skorina Gomel State University 2000-2005](https://www.gsu.by/en/university) 
 
 ## Languages:
-#### English (A2), Belarusian, Russian.
+####  Belarusian, Russian, English (basic), Polish(basic)
